@@ -1,0 +1,5 @@
+{
+  "name": "Tra cứu Thời gian Quy trình Kỹ thuật",
+  "description": "Ứng dụng tra cứu thời gian thực hiện các quy trình kỹ thuật chẩn đoán hình ảnh (Siêu âm, X-quang, CLVT) tại Bệnh viện Đa khoa Sông Thương.",
+  "requestFramePermissions": []
+}
